@@ -3,6 +3,6 @@
         "message": "Invalid OAuth access token.",
         "type": "OAuthException",
         "code": 190,
-        "fbtrace_id": "AWZpgC7Gn4ztajzZJ87-UOf"
+        "fbtrace_id": "APtf-maqnIdydKaiIRcl4DN"
     }
 }
