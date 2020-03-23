@@ -2420,3 +2420,785 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1584987769563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilefUoaM5"
+1584987770346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584987770346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584987770347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584987770347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584987772809	Marionette	INFO	Listening on port 60028
+1584987773225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 544[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2620, Chrome_ChildThread] WA[Parent 7252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584987953003	Marionette	INFO	Stopped listening on port 60028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10896, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jsm, line 66: Error: Can't find profile directory.
+1584987877046	Marionette	INFO	Listening on port 60130
+1584987877513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ip1584987957721	Marionette	INFO	Stopped listening on port 60130
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2036,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Error: Can't find profile directory.
+1584987954888	Marionette	INFO	Listening on port 60216
+1584987955141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 13652, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17292, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][MessageChannel] Error: (msgtype=0x820001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1584988342170	Marionette	INFO	Stopped listening on port 60216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1722
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584988272583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584988272583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584988274295	Marionette	INFO	Listening on port 60336
+1584988274691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7264, Chr[Parent 2196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584988345477	Marionette	INFO	Stopped listening on port 60336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2952,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task1584988342192	Marionette	INFO	Listening on port 60489
+1584988342513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 16320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6224, Chrome_Chi1584988504646	Marionette	INFO	Stopped listening on port 60489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5396, Chrome_ChildThread] WARNING: pJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584988539632	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Child 16900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16900, Chrome_ChildThread] WARNIN[Parent 17120, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6132, Ch[Parent 17120, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 181584988833170	Marionette	INFO	Stopped listening on port 54383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 295
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584988961097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilemnQZz7"
+1584988961838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584988961838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584988961838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584988961838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584988963626	Marionette	INFO	Listening on port 54594
+1584988963770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 11560, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584989006198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989009111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989009877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989010598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989011328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989012054	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989012773	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989318847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileL5lG9X"
+1584989319414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584989319414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584989319414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584989319414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584989321340	Marionette	INFO	Listening on port 54766
+1584989321519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584989359861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989363761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Child 16692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16692, Chrome_ChildThread] WARNING: pipe e1584990217764	Marionette	INFO	Stopped listening on port 54766
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1]: Attempting to post to a invalid Compositor Loop
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+l/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584989458420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989463386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989464780	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584989466330	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 15020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+1584990187574	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+verifySignatures@XPIDatabase.jsm:1822:12
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584990212029	Marionette	INFO	Stopped listening on port 54902
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 9696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17624, A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":false,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":true,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":false},"filename":"resource://gre/modules/TelemetryController.jsm","lineNumber":841,"stack":["resource://gre/modules/TelemetryController.jsm:setupTelemetry:841","resource://gre/modules/TelemetryController.jsm:observe:976","resource://gre/modules/TelemetryController.jsm:observe:180","resource://gre/modules/TelemetryStartup.jsm:TelemetryStartup.prototype.observe:31"]}] Barrier: profile-before-change-telemetry
+1584990198976	Marionette	INFO	Stopped listening on port 55977
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584990011067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584990011782	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 18124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18124, Gecko_IOThread] WARNING:[Ch pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584990231768	Marionette	INFO	Stopped listening on port 56148
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584990240469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilel1SM6h"
+1584990241575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584990241575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584990241576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584990241576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584990243568	Marionette	INFO	Listening on port 56287
+1584990243660	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584990277038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Child 12180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584990349887	Marionette	INFO	Stopped listening on port 56287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18056, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584990355302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileWWjfFt"
+1584990355809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584990355809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584990355809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584990355809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584990357608	Marionette	INFO	Listening on port 56396
+1584990357938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584990391783	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584990393405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 2236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15884,[Parent 2236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11172, Chro[Parent 2236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584990562258	Marionette	INFO	Stopped listening on port 56396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 51
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t 56480
+1584990559562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584990594175	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584990595604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 5664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584990980782	Marionette	INFO	Stopped listening on port 56480
+[GPU 5088, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584990976868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584990978647	Marionette	INFO	Listening on port 63059
+1584990979007	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584991019313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584991024945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15764, Chr[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584991088371	Marionette	INFO	Stopped listening on port 63059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.js/
+1584991082759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584991084762	Marionette	INFO	Listening on port 63159
+1584991084856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584991118953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584991123240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/w2BVdH8inJh.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "stylesheets actor: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+console.error: "onResponse@resource://devtools/shared/DevToolsUtils.js:568:16\nonStopRequest@resource://gre/modules/NetUtil.jsm:128:18\n"
+console.error: "Protocol error (unknownError): Failed to fetch https://static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/uqFt2ZBO9Tt.css?_nc_x=kHaFpUfr8SJ. Code 2152398878."
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+[Child 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_[Child 17708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584992588547	Marionette	INFO	Stopped listening on port 63159
+[GPU 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/bui
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ find profile directory.
+1584992354666	Marionette	INFO	Listening on port 63611
+1584992354974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584992388423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584992392696	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 16268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584992734987	Marionette	INFO	Stopped listening on port 63611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8048, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ort 63703
+1584992531461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584992538287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16908, Chrome_ChildThrea[Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584992735538	Marionette	INFO	Stopped listening on port 63703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14840, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ask_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584992622997	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584992629039	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 5668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109[Child 18284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584992739386	Marionette	INFO	Stopped listening on port 63778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15128, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 2320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2320, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 17172, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17172, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584992740173	Marionette	INFO	Stopped listening on port 63857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15008, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584992774674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584992783616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5608, Chro1584994015390	Marionette	INFO	Stopped listening on port 63932
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584993149389	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993151461	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Parent 13784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8401584994010834	Marionette	INFO	Stopped listening on port 64060
+[GPU 74
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584993635459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 18364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584993651373	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993657174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993660165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993661632	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993663069	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 18364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1504[Parent 18364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1584994010807	Marionette	INFO	Stopped listening on port 64248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1]: Attempting to post to a invalid Compositor Loop
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5141: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584993918714	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584993925826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 17752, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 17752, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 171584994224856	Marionette	INFO	Stopped listening on port 64391
+[GPU 3044,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584994102827	Marionette	INFO	Listening on port 64520
+1584994103089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584994133689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584994141936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Child 18720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18720, Chrome_ChildThreaIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584994226128	Marionette	INFO	Stopped listening on port 64520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10608, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584994227117	Marionette	INFO	Listening on port 64602
+1584994227489	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584994260817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584994267147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1817: TypeError: event.target.classList is undefined
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
+ing manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584994591211	Marionette	INFO	Listening on port 52037
+1584994591414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584994651292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584994656190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ, line 5: Error: Script terminated by timeout at:
+destructor@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:40163
+xe@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:41043
+lc@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:19965
+mc@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:20090
+sc@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:21334
+wa@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:142479
+Aa@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:2226
+pe@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:38833
+oe@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:38300
+g.unstable_runWithPriority@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:4:5325
+Tg@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:59182
+Pk@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:119168
+Ca@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:2410
+me@https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/tZSjgMIdMAt.js?_nc_x=kHaFpUfr8SJ:5:38134
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/UJ-wSeJeQHg.js?_nc_x=kHaFpUfr8SJ:79:549
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/UJ-wSeJeQHg.js?_nc_x=kHaFpUfr8SJ:309:2735
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
