@@ -3170,13 +3170,17 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf
 JavaScript error: resource:///modules/UrlbarInput.jsm, line 1817: TypeError: event.target.classList is undefined
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
 JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
-ing manifest: Invalid extension permission: about:reader*
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1584994591211	Marionette	INFO	Listening on port 52037
-1584994591414	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
-JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
-JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 18956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584997825195	Marionette	INFO	Stopped listening on port 64602
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
 1584994651292	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
 bail@chrome://marionette/content/sync.js:237:64
 1584994656190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
@@ -3202,3 +3206,1313 @@ d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/UJ-wSeJeQHg.js?_nc_x=kHaFpUfr8SJ:
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 8016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11148[Parent 8016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common1584997830190	Marionette	INFO	Stopped listening on port 52037
+[GPU 18904, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+h
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ildThread] WARN
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ING: pipe error: 109: file z:/task_1575282935/build/src/i
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+pc/
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19216, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584997655534	Marionette	INFO	Stopped listening on port 59887
+[GPU 1562
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584997766226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileRHuuJx"
+1584997766825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584997766825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584997766825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584997766825	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584997769032	Marionette	INFO	Listening on port 59971
+1584997769413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 13524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9600, Chrome_ChildThread] WARNIN[Child 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 58[Parent 13524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584997829825	Marionette	INFO	Stopped listening on port 59971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5956, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584997826002	Marionette	INFO	Listening on port 60043
+1584997826322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584997867942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584997873936	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584997884034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584997885057	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584997888030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+[Parent 18236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18236, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Parent 18236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584998256941	Marionette	INFO	Stopped listening on port 60043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 133
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584998229527	Marionette	INFO	Listening on port 60171
+1584998229867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584998276474	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 17620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_157[Parent 17620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+5282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584998558107	Marionette	INFO	Stopped listening on port 60171
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584998549619	Marionette	INFO	Listening on port 60282
+1584998549713	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9896, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584998673351	Marionette	INFO	Stopped listening on port 60282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19260, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m, line 66: Error: Can't find profile directory.
+1584998669675	Marionette	INFO	Listening on port 57610
+1584998669835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 3252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18608, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584998766727	Marionette	INFO	Stopped listening on port 57610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+g manifest: Invalid extension permission: resource://pdf.js/
+1584998761802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584998764660	Marionette	INFO	Listening on port 57695
+1584998765137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1584998805583	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584998812298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1584998817727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 7700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1585004374289	Marionette	INFO	Stopped listening on port 57695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585055718219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileFWzs8p"
+1585055772424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilelV8APS"
+1585055772966	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585055773085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585055773085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585055773085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585055773085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585055774954	Marionette	INFO	Listening on port 64592
+1585055775083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585055809150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585055820191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+1585056436622	Marionette	INFO	Stopped listening on port 64592
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585056094804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585056094804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585056096535	Marionette	INFO	Listening on port 64708
+1585056096666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585056139959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056440550	Marionette	INFO	Stopped listening on port 64708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585056435506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585056435506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585056435506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585056435506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585056437969	Marionette	INFO	Listening on port 64848
+1585056438347	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17132, MediaDecoderStateMachine #1] WARNING: Decoder=19fcac66400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585056467536	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056477404	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585056573380	Marionette	INFO	Stopped listening on port 64848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585056519151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585056519151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585056519151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585056520898	Marionette	INFO	Listening on port 64928
+1585056521271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxhCOsqoy5-rvxFa_aOaILw7ELAA2jXsG1v9moc4rZ5yw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A8%2C%22cursor%22%3A%22MTU4NTAzMzQ1MToxNTg1MDMzNDUxOjE6LTk2MTY0NzEzMDkwMTI4Njg5MDowOjY4MDc3NjU5NTUwNTc5MTU4ODU%3D%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585056523%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A6%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22ff5c3926-a80f-420e-9c4a-a54c959ab478%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_7&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888632&__s=03yb5h%3Asi219r%3Awa0gvr&__hsi=6807765930659541727-0&__comet_req=0&jazoest=27930&__spin_r=1001888632&__spin_b=trunk&__spin_t=1585056523&__adt=7, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxhCOsqoy5-rvxFa_aOaILw7ELAA2jXsG1v9moc4rZ5yw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A8%2C%22cursor%22%3A%22MTU4NTAzMzQ1MToxNTg1MDMzNDUxOjE6LTk2MTY0NzEzMDkwMTI4Njg5MDowOjY4MDc3NjU5NTUwNTc5MTU4ODU%3D%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585056523%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A6%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22ff5c3926-a80f-420e-9c4a-a54c959ab478%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_7&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888632&__s=03yb5h%3Asi219r%3Awa0gvr&__hsi=6807765930659541727-0&__comet_req=0&jazoest=27930&__spin_r=1001888632&__spin_b=trunk&__spin_t=1585056523&__adt=7, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxhCOsqoy5-rvxFa_aOaILw7ELAA2jXsG1v9moc4rZ5yw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A8%2C%22cursor%22%3A%22MTU4NTAzMzQ1MToxNTg1MDMzNDUxOjE6LTk2MTY0NzEzMDkwMTI4Njg5MDowOjY4MDc3NjU5NTUwNTc5MTU4ODU%3D%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585056523%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A6%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22ff5c3926-a80f-420e-9c4a-a54c959ab478%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_7&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888632&__s=03yb5h%3Asi219r%3Awa0gvr&__hsi=6807765930659541727-0&__comet_req=0&jazoest=27930&__spin_r=1001888632&__spin_b=trunk&__spin_t=1585056523&__adt=7, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxhCOsqoy5-rvxFa_aOaILw7ELAA2jXsG1v9moc4rZ5yw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A8%2C%22cursor%22%3A%22MTU4NTAzMzQ1MToxNTg1MDMzNDUxOjE6LTk2MTY0NzEzMDkwMTI4Njg5MDowOjY4MDc3NjU5NTUwNTc5MTU4ODU%3D%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585056523%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A6%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22ff5c3926-a80f-420e-9c4a-a54c959ab478%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_7&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888632&__s=03yb5h%3Asi219r%3Awa0gvr&__hsi=6807765930659541727-0&__comet_req=0&jazoest=27930&__spin_r=1001888632&__spin_b=trunk&__spin_t=1585056523&__adt=7, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585056566845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056571093	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056740176	Marionette	INFO	Stopped listening on port 64928
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585056732256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585056732256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585056732256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585056732257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585056733937	Marionette	INFO	Listening on port 65016
+1585056734392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585056763783	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056776530	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056876518	Marionette	INFO	Stopped listening on port 65016
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585056864148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585056864148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585056864149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585056864149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585056865869	Marionette	INFO	Listening on port 59945
+1585056866287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585056896472	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585056906314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585057364200	Marionette	INFO	Stopped listening on port 59945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585057372547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileYH8fOC"
+1585057373013	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585057373117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585057373117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585057373117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585057373117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585057375058	Marionette	INFO	Listening on port 60101
+1585057375203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585057404667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057408980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057414108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585057931789	Marionette	INFO	Stopped listening on port 60101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+extension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585057929531	Marionette	INFO	Listening on port 60328
+1585057929719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxfDBQ1eb2UhvR4VDTPuqB6ld4kmG2ZFjdy5jAC6vGsuA&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3NzcyMDAyMjY2MzE2MDY1%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585057932%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%227e8c08a2-f844-4b8d-88e2-7af27b7e7b7c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=f5q6au%3Al6z1fa%3Aq0lh7h&__hsi=6807771980865994062-0&__comet_req=0&jazoest=27754&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585057932&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxfDBQ1eb2UhvR4VDTPuqB6ld4kmG2ZFjdy5jAC6vGsuA&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3NzcyMDAyMjY2MzE2MDY1%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585057932%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%227e8c08a2-f844-4b8d-88e2-7af27b7e7b7c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=f5q6au%3Al6z1fa%3Aq0lh7h&__hsi=6807771980865994062-0&__comet_req=0&jazoest=27754&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585057932&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxfDBQ1eb2UhvR4VDTPuqB6ld4kmG2ZFjdy5jAC6vGsuA&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3NzcyMDAyMjY2MzE2MDY1%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585057932%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%227e8c08a2-f844-4b8d-88e2-7af27b7e7b7c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=f5q6au%3Al6z1fa%3Aq0lh7h&__hsi=6807771980865994062-0&__comet_req=0&jazoest=27754&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585057932&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQxfDBQ1eb2UhvR4VDTPuqB6ld4kmG2ZFjdy5jAC6vGsuA&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3NzcyMDAyMjY2MzE2MDY1%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585057932%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%227e8c08a2-f844-4b8d-88e2-7af27b7e7b7c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=f5q6au%3Al6z1fa%3Aq0lh7h&__hsi=6807771980865994062-0&__comet_req=0&jazoest=27754&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585057932&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585057967151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057972043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057978670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057979398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057980114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057980856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057981724	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057982444	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057983188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057983900	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057984643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057985355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057986068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057986804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057989277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057990264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585057991004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058120530	Marionette	INFO	Stopped listening on port 60328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058119012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058119012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058119012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058119012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058120968	Marionette	INFO	Listening on port 60432
+1585058121075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585058150912	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058155963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058160849	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058243976	Marionette	INFO	Stopped listening on port 60432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058240735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058240736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058240736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058240736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058242493	Marionette	INFO	Listening on port 60535
+1585058242875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585058273577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058278737	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058283864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058367545	Marionette	INFO	Stopped listening on port 60535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058363273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058363274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058363274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058363274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058365052	Marionette	INFO	Listening on port 60622
+1585058365386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585058400073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058761571	Marionette	INFO	Stopped listening on port 60622
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058590750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058590750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058590750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058590750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058592506	Marionette	INFO	Listening on port 60725
+1585058592867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585058764535	Marionette	INFO	Stopped listening on port 60725
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileO03IGr"
+1585058759801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058759913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058759913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058759913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058759913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058762118	Marionette	INFO	Listening on port 60822
+1585058762343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585058795190	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058801180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585058994826	Marionette	INFO	Stopped listening on port 60822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585058994581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585058994581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585058994581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585058994582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585058996324	Marionette	INFO	Listening on port 60968
+1585058996646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585059167720	Marionette	INFO	Stopped listening on port 60968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585059164406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585059164407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585059164407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585059164407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585059166165	Marionette	INFO	Listening on port 61071
+1585059166515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585059198769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585059200672	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585059381270	Marionette	INFO	Stopped listening on port 61071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585059379659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585059379659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585059379659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585059379659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585059381556	Marionette	INFO	Listening on port 61179
+1585059382056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585059908548	Marionette	INFO	Stopped listening on port 61179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585059724376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585059724376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585059724376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585059724376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585059726074	Marionette	INFO	Listening on port 50228
+1585059726480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585059758011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585059762843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585059768016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585059910296	Marionette	INFO	Stopped listening on port 50228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+telemetry
+1585059903273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585059903273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585059905170	Marionette	INFO	Listening on port 50342
+1585059905199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585059948340	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 17612, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585060434027	Marionette	INFO	Stopped listening on port 50342
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+workStatus
+1585060156039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585060156039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585060156039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585060156039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585060157700	Marionette	INFO	Listening on port 50449
+1585060158151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585060193428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585060434188	Marionette	INFO	Stopped listening on port 50449
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585060271179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585060271179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585060271179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585060271179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585060273001	Marionette	INFO	Listening on port 50539
+1585060273129	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 216, MediaDecoderStateMachine #1] WARNING: Decoder=2292d2eb400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585060308071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585060315005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17668, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585062182297	Marionette	INFO	Stopped listening on port 50539
+.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585060525815	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1585062181328	Marionette	INFO	Stopped listening on port 57245
+ript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+1585062187074	Marionette	INFO	Stopped listening on port 57330
+nifest: Invalid extension permission: mozillaAddons
+1585061105173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585061105173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585061105173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585061107029	Marionette	INFO	Listening on port 58200
+1585061107254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1585062161455	Marionette	INFO	Stopped listening on port 58200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585062201283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilelSlPlb"
+1585062202008	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585062202100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585062202100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585062202100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585062202100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585062203803	Marionette	INFO	Listening on port 54431
+1585062203967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585062237276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062242328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062245675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585062505808	Marionette	INFO	Stopped listening on port 54431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585062501754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585062501754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585062501755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585062503868	Marionette	INFO	Listening on port 54546
+1585062504365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585062545350	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062761688	Marionette	INFO	Stopped listening on port 54546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585062635993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585062635993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585062635994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585062635994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585062637762	Marionette	INFO	Listening on port 54635
+1585062638102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585062675579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062681012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062684370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062762945	Marionette	INFO	Stopped listening on port 54635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585062768426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofile2tELDR"
+1585062768895	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585062768992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585062768992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585062768992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585062768992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585062770709	Marionette	INFO	Listening on port 54723
+1585062771116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585062807281	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062966736	Marionette	INFO	Stopped listening on port 54723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585062959196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585062959196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585062959196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585062959197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585062960845	Marionette	INFO	Listening on port 64344
+1585062960867	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16488, MediaDecoderStateMachine #1] WARNING: Decoder=1a0d31c5c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyqeDDgHajCoJiEJkeVR_6lppBauExf-AtZHpt7qvYbog&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3NzkzNjA1OTE3ODI0OTQy%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585062963%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22df4e379f-3d98-4839-a41b-9f805866689d%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3i8G6EdoOmim48gKi8wGxm4UGqfwhUOUkxC2i3yeCzEmgK7o884y0MqwIwKG2q4U7u8wHzUuxy5po3cwUw8K&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nw122n%3Aculfwg%3Aaftgwb&__hsi=6807793588836170259-0&__comet_req=0&jazoest=28075&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585062963&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyqeDDgHajCoJiEJkeVR_6lppBauExf-AtZHpt7qvYbog&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3NzkzNjA1OTE3ODI0OTQy%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585062963%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22df4e379f-3d98-4839-a41b-9f805866689d%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3i8G6EdoOmim48gKi8wGxm4UGqfwhUOUkxC2i3yeCzEmgK7o884y0MqwIwKG2q4U7u8wHzUuxy5po3cwUw8K&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nw122n%3Aculfwg%3Aaftgwb&__hsi=6807793588836170259-0&__comet_req=0&jazoest=28075&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585062963&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyqeDDgHajCoJiEJkeVR_6lppBauExf-AtZHpt7qvYbog&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3NzkzNjA1OTE3ODI0OTQy%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585062963%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22df4e379f-3d98-4839-a41b-9f805866689d%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3i8G6EdoOmim48gKi8wGxm4UGqfwhUOUkxC2i3yeCzEmgK7o884y0MqwIwKG2q4U7u8wHzUuxy5po3cwUw8K&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nw122n%3Aculfwg%3Aaftgwb&__hsi=6807793588836170259-0&__comet_req=0&jazoest=28075&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585062963&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyqeDDgHajCoJiEJkeVR_6lppBauExf-AtZHpt7qvYbog&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3NzkzNjA1OTE3ODI0OTQy%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585062963%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22df4e379f-3d98-4839-a41b-9f805866689d%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3i8G6EdoOmim48gKi8wGxm4UGqfwhUOUkxC2i3yeCzEmgK7o884y0MqwIwKG2q4U7u8wHzUuxy5po3cwUw8K&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nw122n%3Aculfwg%3Aaftgwb&__hsi=6807793588836170259-0&__comet_req=0&jazoest=28075&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585062963&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585062991060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585062994739	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063000305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063065059	Marionette	INFO	Stopped listening on port 64344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063059961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063059961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063059961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063059961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063061600	Marionette	INFO	Listening on port 64441
+1585063062085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQzsLsCp3gYXiLOOovohBZjw96UjlaN5JUxzYbAFKEItfw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3Nzk0MDQ0MTEzMzMzMjcz%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063064%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22dee8a715-0aac-4f3b-baf6-e20a70274a37%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_5&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=6kc0tu%3Ap5yt8d%3A1b345q&__hsi=6807794023545187396-0&__comet_req=0&jazoest=28012&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063064&__adt=5, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQzsLsCp3gYXiLOOovohBZjw96UjlaN5JUxzYbAFKEItfw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3Nzk0MDQ0MTEzMzMzMjcz%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063064%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22dee8a715-0aac-4f3b-baf6-e20a70274a37%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_5&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=6kc0tu%3Ap5yt8d%3A1b345q&__hsi=6807794023545187396-0&__comet_req=0&jazoest=28012&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063064&__adt=5, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQzsLsCp3gYXiLOOovohBZjw96UjlaN5JUxzYbAFKEItfw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3Nzk0MDQ0MTEzMzMzMjcz%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063064%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22dee8a715-0aac-4f3b-baf6-e20a70274a37%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_5&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=6kc0tu%3Ap5yt8d%3A1b345q&__hsi=6807794023545187396-0&__comet_req=0&jazoest=28012&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063064&__adt=5, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQzsLsCp3gYXiLOOovohBZjw96UjlaN5JUxzYbAFKEItfw&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A5%2C%22cursor%22%3A%22MTU4NTA1NjczNjoxNTg1MDU2NzM2OjE6LTE2MDMzNDExMTQ2MTAzODMzMzk6MDo2ODA3Nzk0MDQ0MTEzMzMzMjcz%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063064%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22dee8a715-0aac-4f3b-baf6-e20a70274a37%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUG4XzEeUG15zobohx3wDwNKcwJwpUiwBx61zwzwnqxW5o7Cum1owhEpKEtxy5UrwFwgEdoK7UeU5W78_Uswr8R1G4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_5&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=6kc0tu%3Ap5yt8d%3A1b345q&__hsi=6807794023545187396-0&__comet_req=0&jazoest=28012&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063064&__adt=5, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063094660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063101161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063136093	Marionette	INFO	Stopped listening on port 64441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063131663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063131663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063131663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063131663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063133390	Marionette	INFO	Listening on port 64559
+1585063133806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063164854	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1585063560395	Marionette	INFO	Stopped listening on port 64559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5167: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+illa.org': Reading manifest: Invalid extension permission: telemetry
+1585063225882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063225882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063227612	Marionette	INFO	Listening on port 64629
+1585063227924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063267526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063762439	Marionette	INFO	Stopped listening on port 64629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063323070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063323070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063323070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063323070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063324800	Marionette	INFO	Listening on port 64712
+1585063325227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyKxhihcGliZw7a8BAWBbQJH_eT5ZaElqhcfgpOX9h8tg&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3Nzk1MTczNTg0MjE0NDU2%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063327%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22a1d41822-2e95-48b6-ae7d-f1a4598dd82c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nq1aa7%3A0op2fg%3Acmz1ep&__hsi=6807795152372295020-0&__comet_req=0&jazoest=27966&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063327&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyKxhihcGliZw7a8BAWBbQJH_eT5ZaElqhcfgpOX9h8tg&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3Nzk1MTczNTg0MjE0NDU2%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063327%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22a1d41822-2e95-48b6-ae7d-f1a4598dd82c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nq1aa7%3A0op2fg%3Acmz1ep&__hsi=6807795152372295020-0&__comet_req=0&jazoest=27966&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063327&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyKxhihcGliZw7a8BAWBbQJH_eT5ZaElqhcfgpOX9h8tg&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3Nzk1MTczNTg0MjE0NDU2%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063327%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22a1d41822-2e95-48b6-ae7d-f1a4598dd82c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nq1aa7%3A0op2fg%3Acmz1ep&__hsi=6807795152372295020-0&__comet_req=0&jazoest=27966&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063327&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript error: https://www.facebook.com/ajax/pagelet/generic.php/LitestandTailLoadPagelet?fb_dtsg_ag=AQz-tGd1dIy4Sw8QGAG80g13Ru5EkhrRG4cIFaApNqwLGw%3AAQyKxhihcGliZw7a8BAWBbQJH_eT5ZaElqhcfgpOX9h8tg&ajaxpipe=1&ajaxpipe_token=AXhLDXVb5UvM8NyC&no_script_path=1&data=%7B%22client_stories_count%22%3A4%2C%22cursor%22%3A%22MTU4NTA1Njg2NzoxNTg1MDU2ODY3OjE6LTg2NjU4NDg0ODg0NTgzODk2NTY6MDo2ODA3Nzk1MTczNTg0MjE0NDU2%22%2C%22pager_config%22%3A%22%7B%5C%22section_id%5C%22%3A%5C%22408239535924329%5C%22%2C%5C%22stream_id%5C%22%3Anull%2C%5C%22section_type%5C%22%3A1%2C%5C%22most_recent%5C%22%3Afalse%2C%5C%22ranking_model%5C%22%3Anull%2C%5C%22query_context%5C%22%3A%7B%5C%22head_request_time%5C%22%3A1585063327%7D%2C%5C%22use_new_feed%5C%22%3Atrue%2C%5C%22sequence%5C%22%3Anull%7D%22%2C%22scroll_count%22%3A3%2C%22story_id%22%3Anull%2C%22client_query_id%22%3A%22a1d41822-2e95-48b6-ae7d-f1a4598dd82c%22%7D&__user=100048840231083&__a=1&__dyn=7AgNe-4amaxx2u6Xolg9odoKEW8xd4Wo8oeES2N6wAxu13wFw_x-EK6UnG2OUuKewXyE4mdwJx64e2u36UO2S1Dxa2m4o6e2e1tG7ElwupVo5y1wKEtxy5UrwFwgEdoK7UeU5W78_U2nxK4obeUry9A3C5o-cBKm1Uxm3ibxG3mcBABx24bAy8aElxeaCzU4ucxy6o98e8Wqexp2Utwwwi831G2O2WE9EjwtUy2KfxW68lBwcO3y0yU&__csr=&__req=jsonp_4&__beoa=0&__pc=PHASED%3ADEFAULT&dpr=1.5&__rev=1001888771&__s=nq1aa7%3A0op2fg%3Acmz1ep&__hsi=6807795152372295020-0&__comet_req=0&jazoest=27966&__spin_r=1001888771&__spin_b=trunk&__spin_t=1585063327&__adt=4, line 1: SecurityError: Permission denied to access property "require" on cross-origin object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063358756	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063360240	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063364802	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063368893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063372171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063764343	Marionette	INFO	Stopped listening on port 64712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063430143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063430143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063430143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063430143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063432938	Marionette	INFO	Listening on port 64802
+1585063433224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585063764437	Marionette	INFO	Stopped listening on port 64802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063502978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063502978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063502978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063502979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063508226	Marionette	INFO	Listening on port 64894
+1585063508700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063573315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063579679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585063765393	Marionette	INFO	Stopped listening on port 64894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585063774262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileAoFZGZ"
+1585063775089	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585063775186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585063775186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585063775186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585063775186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585063776906	Marionette	INFO	Listening on port 65014
+1585063776975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585063820062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064136147	Marionette	INFO	Stopped listening on port 65014
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileJI1j9e"
+1585064007607	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585064007699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585064007699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585064007699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585064007700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585064009445	Marionette	INFO	Listening on port 65096
+1585064009845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585064045718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064140135	Marionette	INFO	Stopped listening on port 65096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585064134831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585064134832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585064134832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585064134832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585064136994	Marionette	INFO	Listening on port 65184
+1585064137454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585064169225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064174630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064180032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064260728	Marionette	INFO	Stopped listening on port 65184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585064257801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585064257801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585064257801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585064257802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585064259772	Marionette	INFO	Listening on port 65273
+1585064259961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585064338999	Marionette	INFO	Stopped listening on port 65273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585064335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585064335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585064335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585064335786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585064337838	Marionette	INFO	Listening on port 65347
+1585064337945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585064371246	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064375508	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064377813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064637112	Marionette	INFO	Stopped listening on port 65347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585064633811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585064633811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585064633813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585064633813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585064635600	Marionette	INFO	Listening on port 65457
+1585064635775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585064672462	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064679534	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064681810	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585064691272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
