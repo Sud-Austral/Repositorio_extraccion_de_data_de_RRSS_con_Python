@@ -69,18 +69,7 @@ def cargarEnlacesLugar(lugar):
             listas.append(str(salida))
         
     
-            for j in salida.split("\n"):
-                j = j.replace("Responder","").replace(" ·  · ","")
-                j = j.replace("Escribe una respuesta...","")
-                j = j.replace('Está seleccionada la opción "Más relevantes", por lo que es posible que algunas respuestas se hayan filtrado.',"")
-                j = j.replace('Presiona "Enter" para publicar.',"")
-                if(len(j) > 0):
-                    print(str(len(j)))
-
-                    print(j)
-                    print("*********************************************************************************************")
-            print("--------------------------------------------------------------------------------------------------")
-
+            
     return listas
 
 
