@@ -1,0 +1,4 @@
+timestamp,tweet_text,username,all_hashtags,followers_count
+2020-03-24 15:43:10,b'Literal \xf0\x9f\xa5\xba #CuarentenaEnFamilia #PeruEstaEnNuestrasManos #YoMeQuedoEnCasa #elhoyo #netflix #hambre #per\xc3\xba #vizcarra https://t.co/79eHYsWETG',b'011_bethovish',"['CuarentenaEnFamilia', 'PeruEstaEnNuestrasManos', 'YoMeQuedoEnCasa', 'elhoyo', 'netflix', 'hambre', 'perú', 'vizcarra']",5
+2020-03-23 06:43:33,b'Bout to fuck my lunch up #hambre',b'B_leex3',['hambre'],206
+2020-03-19 14:30:53,b'Have #Hunger ? Tiene #Hambre? Food distribution in #Oceanside #ElCajon &amp; SDCCU #stadium  https://t.co/DM6xYVE0zJ',b'SanDiegoCNP',"['Hunger', 'Hambre', 'Oceanside', 'ElCajon', 'stadium']",204
