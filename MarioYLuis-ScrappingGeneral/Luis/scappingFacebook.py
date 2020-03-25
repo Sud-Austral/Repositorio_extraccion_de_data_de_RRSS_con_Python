@@ -7,12 +7,30 @@ import numpy as np
 import pandas as pd
 from facebook_scraper import get_posts
 from datetime import datetime
+import cargaEnlaces as cE
 
 
 def Final(pagina,n):
     data = getComentarios(pagina,n)
     saveCSV(data,pagina)
     return data
+
+def comentarioPorLugar(lugar,top,posts):
+    datos = []
+    driver = getDriver()
+    for i in getPaginaFacebook(lugar,top):
+        datos.append(getComentarios(i,posts, driver))
+    data = pd.concat(datos)
+    saveCSV(data,lugar)
+    return datos
+
+
+def getPaginaFacebook(lugar,top):
+    salida = []
+    for i in cE.cargarEnlacesLugar(lugar):
+        if len(i) > 0:
+            salida.append(i.replace("https://www.facebook.com/","").replace("/",""))
+    return salida[:top]
 
 
 def getPost(pagina, n):
@@ -56,16 +74,16 @@ def getDriver():
     #driver.set_page_load_timeout("60")
     return driver
 
-def getComentarios(pagina,n):
+def getComentarios(pagina,n, driver):
     datos = []
-    driver = getDriver()
+    #driver = getDriver()
     for i in getPost(pagina,n):
         datos.append(comentarioPost2(driver,i))
     return pd.concat(datos)
 
-def saveCSV(data,pagina):
+def saveCSV(data,lugar):
     now = datetime.now()
-    nombreArchivo = pagina + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv"
+    nombreArchivo = lugar + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv"
     print("Se guardaron los datos en " + nombreArchivo)
     data.to_csv(nombreArchivo, index=False)
 
