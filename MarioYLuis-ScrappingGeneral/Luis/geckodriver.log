@@ -9047,3 +9047,705 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1585113555072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofile5uxmJ4"
+1585113556208	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113556318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113556318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113556318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113556319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113558538	Marionette	INFO	Listening on port 61507
+1585113558742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ, line 48: Error: Script terminated by timeout at:
+pushGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:48:107
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:80:355
+E@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:310:679
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:310:2341
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:277:208
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x660029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1585114436431	Marionette	INFO	Stopped listening on port 61507
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585143812614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilepM1FjK"
+1585143813474	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585143813579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585143813579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585143813579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585143813579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585143815496	Marionette	INFO	Listening on port 62086
+1585143815763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585143853018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585143890734	Marionette	INFO	Stopped listening on port 62086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585144165933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilej3NiVD"
+1585144166386	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585144166483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585144166483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585144166483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585144166483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585144168064	Marionette	INFO	Listening on port 62948
+1585144168075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585144214243	Marionette	INFO	Stopped listening on port 62948
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilezy9f86"
+1585144208384	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585144208499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585144208499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585144208499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585144208499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585144210180	Marionette	INFO	Listening on port 63013
+1585144210590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585144297707	Marionette	INFO	Stopped listening on port 63013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585144293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585144293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585144293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585144293135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585144294718	Marionette	INFO	Listening on port 63078
+1585144294765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585144307192	Marionette	INFO	Stopped listening on port 63078
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585144585450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileKR5VJ7"
+1585144586076	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585144586188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585144586188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585144586188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585144586188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585144588225	Marionette	INFO	Listening on port 63269
+1585144588595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585144624006	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585144625335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585144629625	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585145393606	Marionette	INFO	Stopped listening on port 63269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585145389471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585145389471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585145389471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585145389471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585145391216	Marionette	INFO	Listening on port 53960
+1585145391554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585145611583	Marionette	INFO	Stopped listening on port 53960
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ extension permission: networkStatus
+1585145443197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585145443197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585145443197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585145443197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585145444885	Marionette	INFO	Listening on port 54036
+1585145445311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585145613905	Marionette	INFO	Stopped listening on port 54036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585145605857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585145605857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585145605857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585145605857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585145607522	Marionette	INFO	Listening on port 62766
+1585145607981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585145689537	Marionette	INFO	Stopped listening on port 62766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585145684182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585145684182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585145684183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585145684183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585145685763	Marionette	INFO	Listening on port 62915
+1585145686186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585145708421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585145709162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585146519617	Marionette	INFO	Stopped listening on port 62915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585146496714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585146496715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585146496715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585146496715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585146498581	Marionette	INFO	Listening on port 63197
+1585146498810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 16784, MediaDecoderStateMachine #1] WARNING: Decoder=205ac77c800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585147199146	Marionette	INFO	Stopped listening on port 63197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585146726525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585146726525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585146726525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585146728280	Marionette	INFO	Listening on port 63387
+1585146728570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 12396, MediaDecoderStateMachine #1] WARNING: Decoder=1ff3f947000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585147200249	Marionette	INFO	Stopped listening on port 63387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147194127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147194127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147194127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147194127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147197024	Marionette	INFO	Listening on port 49997
+1585147197100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585147288356	Marionette	INFO	Stopped listening on port 49997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147282120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147282120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147282120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147282120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147283677	Marionette	INFO	Listening on port 50087
+1585147284158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585147447267	Marionette	INFO	Stopped listening on port 50087
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147441162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147441163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147441163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147441163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147442794	Marionette	INFO	Listening on port 50231
+1585147443287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585147514873	Marionette	INFO	Stopped listening on port 50231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147507764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147507764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147507764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147507764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147509379	Marionette	INFO	Listening on port 50386
+1585147509883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370126,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB00006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585147573267	Marionette	INFO	Stopped listening on port 50386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+reenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147569287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147570913	Marionette	INFO	Listening on port 50457
+1585147571393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585147693030	Marionette	INFO	Stopped listening on port 50457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147651003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147651003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147651004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147651004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147652589	Marionette	INFO	Listening on port 50605
+1585147652628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 15200, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585148014466	Marionette	INFO	Stopped listening on port 50605
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585147945481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585147945481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585147945481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585147945481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585147947076	Marionette	INFO	Listening on port 50716
+1585147947520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585148016417	Marionette	INFO	Stopped listening on port 50716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148007738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148007738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148007738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148009500	Marionette	INFO	Listening on port 50788
+1585148009849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585148035286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148035996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148036760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148037470	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148038443	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148039154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148039864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148040575	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148041285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148041996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148042753	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148229378	Marionette	INFO	Stopped listening on port 50788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585148205517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148205517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148205517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148205517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148207106	Marionette	INFO	Listening on port 50933
+1585148207555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+[Parent 19176, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 19176, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1585148889063	Marionette	INFO	Stopped listening on port 50933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+er return statement
+1585148878157	Marionette	INFO	Stopped listening on port 51005
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofiled4v0at"
+1585148329431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585148329541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148329541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148329542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148329542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148331900	Marionette	INFO	Listening on port 51090
+1585148332057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585148362720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148376728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585148884855	Marionette	INFO	Stopped listening on port 51090
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileAYLV0C"
+1585148742390	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585148742505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148742505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148742505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148742505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148744548	Marionette	INFO	Listening on port 51291
+1585148744776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585148888100	Marionette	INFO	Stopped listening on port 51291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585148810101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148810101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148810101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148810101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148812570	Marionette	INFO	Listening on port 51418
+1585148812659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585148848036	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1585149835345	Marionette	INFO	Stopped listening on port 51418
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+permission: networkStatus
+1585148915672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585148915672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585148915672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585148915673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585148917772	Marionette	INFO	Listening on port 54836
+1585148917853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585148947327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1585151073359	Marionette	INFO	Stopped listening on port 54836
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585151149152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileCPJiM6"
+1585151149846	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585151149948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585151149948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585151149948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585151149948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585151151689	Marionette	INFO	Listening on port 55621
+1585151151795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+1585151235562	Marionette	INFO	Stopped listening on port 55621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585151228123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585151228123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585151228123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585151228123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585151229936	Marionette	INFO	Listening on port 55732
+1585151230155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 26472, MediaDecoderStateMachine #1] WARNING: Decoder=1f930b19c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585151368155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585152024177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilels4IXp"
+1585152024867	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585152024971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585152024972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585152024972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585152024972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585152026716	Marionette	INFO	Listening on port 56119
+1585152026829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+[Child 25200, MediaDecoderStateMachine #1] WARNING: Decoder=28e2e6c3c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
