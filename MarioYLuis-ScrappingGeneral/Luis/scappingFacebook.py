@@ -1,0 +1,135 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+import sys
+import pandas as pd
+import numpy as np
+import pandas as pd
+from facebook_scraper import get_posts
+
+def getPost(pagina, n):
+    salida = []
+    for post in get_posts(pagina, pages=n, credentials=("informaticasudaustral@gmail.com","Info.Sud91")):
+        if type(post["post_url"]) == str:
+                #print(type(post["post_url"]))
+                salida.append(post["post_url"].replace("m.facebook","www.facebook"))
+        #texto = post["post_url"]
+        #print(texto.replace("m.facebook","www.facebook"))
+        
+    return salida[:n]
+
+
+def comentario(url):
+    driver = webdriver.Firefox()
+    driver.set_page_load_timeout("60")
+    driver.get("https://www.facebook.com")
+
+    driver.find_element_by_name("email").send_keys("informaticasudaustral@gmail.com")
+    driver.find_element_by_name("pass").send_keys("Info.Sud91")
+
+    driver.find_element_by_id("loginbutton").click()
+    driver.set_page_load_timeout("60")
+
+    #driver.get("https://www.facebook.com/story.php?story_fbid=10157425418460895&id=313191260894")
+    driver.get(url)
+    driver.set_page_load_timeout("60")
+    time.sleep(5)
+    flag  = 1
+    exit = ""
+    while flag < 8:
+    #while exit == "Message: Unable to locate element: ._4sxc":
+        try:
+            #driver.find_element_by_class_name("_4sxc _42ft").click()
+            driver.find_element_by_class_name("_4sxc").click()
+            #print("Hola")
+        except Exception as e:
+            exit = e
+            #print(e)
+            #print("Oops! ",sys.exc_info()[0]," occured.")
+            flag = flag + 1        
+    hola = "ola"  
+    Xpath = "/html/body/div[1]/div[3]/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div/div/div/div/div[2]/div[2]/form/div/div[3]/ul/li"
+    comentario = []
+    likes = []
+    lista_id = []
+    lista_parent_id = []
+    hora = []
+
+    numeroId = 1
+    for i in driver.find_elements_by_xpath(Xpath):
+        #lista_id.append(numeroId)
+        #numeroId = numeroId + 1
+        try:
+            #print("ID " + str(numeroId))
+            lista_id.append(numeroId)
+            #print("Parent_ID " + str(0))
+            lista_parent_id.append(0)
+            maduro = i.find_element_by_class_name("_72vr")
+            #print(i.find_element_by_class_name("livetimestamp").text)
+            #print("Comentario:" + maduro.text)
+            comentario.append(maduro.text)
+            try:
+                like = i.find_element_by_class_name("_1lld")
+                likes.append(like.text)
+                #print("Likes: " + like.text)
+            except:
+                likes.append("0")
+                #print("Likes: " +"0")
+            #print("Hora: " + i.find_element_by_class_name("livetimestamp").text)
+            hora.append(i.find_element_by_class_name("livetimestamp").text)
+            #print("_________________________________________________________________________________")
+            parent_ID = numeroId
+            numeroId = numeroId + 1
+            try:
+                subcomentarios = i.find_element_by_class_name("_2h2j")
+                
+                #print(str(len(subcomentarios.find_elements_by_class_name("_6c7i"))))
+                #print(str(len(subcomentarios.find_elements_by_class_name("livetimestamp"))))
+                    
+                #for j in subcomentarios.find_elements_by_class_name("livetimestamp"):
+                    #print(j.text)
+                for j in range(len(subcomentarios.find_elements_by_class_name("_6c7i"))):
+                    #print(str(j))
+                    aux = subcomentarios.find_elements_by_class_name("_6c7i")[j]
+                    maduro = aux.find_element_by_class_name("_72vr")
+                    #print("ID " + str(numeroIderoId))
+                    #print("ID " + str(numeroId))
+                    lista_id.append(numeroId)
+                    #print("Parent_ID " + str(parent_ID))
+                    lista_parent_id.append(parent_ID)
+                    #print("Comentario:" + maduro.text)
+                    comentario.append(maduro.text)
+                    try:
+                        like = aux.find_element_by_class_name("_1lld")
+                        likes.append(like.text)
+                        #print("Likes: " + like.text)
+                    except:
+                        likes.append("0")
+                        #print("Likes: " +"0")
+                    
+                    aux = subcomentarios.find_elements_by_class_name("livetimestamp")[j]
+                    #print("Hora: " + aux.text)
+                    hora.append(aux.text)
+                    #print("////////////////////////////////////////////////////////////////////////////////")
+                    numeroId = numeroId + 1
+                    #numeroId = numeroId + 1
+                        #print("0")
+                    #print("///////////////////////////////////////////////////////////////////////////////////")
+                #print(subcomentarios.text)
+                #for j in subcomentarios.text.split("\n"):
+                    #print(j)
+                    #print("///////////////////////////////////////////////////////////////////////////////////")
+            except:
+                print("sin subtextos")
+        except:
+            print("error")
+            
+    data = pd.DataFrame({
+        "comentario":comentario,
+        "likes":likes,
+        "id": lista_id,
+        "id_padre":lista_parent_id,
+        "hora": hora
+    })
+    driver.close()
+    return data
