@@ -6,6 +6,15 @@ import sys
 from typing import List, Tuple, Dict, TextIO
 import array
 
+def filtrar(variable):
+    filtro = ["/pages"]
+    for palabra in filtro:
+            if palabra in variable:
+                return 1
+            else:
+                return 2
+            
+            
 
 def cargarEnlacesLugar(lugar):
     driver = webdriver.Firefox()
@@ -23,6 +32,7 @@ def cargarEnlacesLugar(lugar):
     driver.set_page_load_timeout("60")
     #arr = array.array('i')
     listas = []
+    
     #contador = 0
     #paginas = 2
     #while contador < paginas:
@@ -52,21 +62,25 @@ def cargarEnlacesLugar(lugar):
     for i in driver.find_elements_by_class_name("_1wu_"):
         tag = i.find_element_by_tag_name("a")
         salida = tag.get_attribute("href")
-        listas.append(str(salida))
+        
+        resultado = filtrar(salida)
+        
+        if resultado == 2:
+            listas.append(str(salida))
         
     
-        for j in salida.split("\n"):
-            j = j.replace("Responder","").replace(" ·  · ","")
-            j = j.replace("Escribe una respuesta...","")
-            j = j.replace('Está seleccionada la opción "Más relevantes", por lo que es posible que algunas respuestas se hayan filtrado.',"")
-            j = j.replace('Presiona "Enter" para publicar.',"")
-            if(len(j) > 0):
-                print(str(len(j)))
+            for j in salida.split("\n"):
+                j = j.replace("Responder","").replace(" ·  · ","")
+                j = j.replace("Escribe una respuesta...","")
+                j = j.replace('Está seleccionada la opción "Más relevantes", por lo que es posible que algunas respuestas se hayan filtrado.',"")
+                j = j.replace('Presiona "Enter" para publicar.',"")
+                if(len(j) > 0):
+                    print(str(len(j)))
 
-                print(j)
-                print("*********************************************************************************************")
-        print("--------------------------------------------------------------------------------------------------")
-   
+                    print(j)
+                    print("*********************************************************************************************")
+            print("--------------------------------------------------------------------------------------------------")
+
     return listas
 
 
