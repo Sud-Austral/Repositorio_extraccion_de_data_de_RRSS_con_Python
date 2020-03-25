@@ -9874,13 +9874,62 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1585158518084	Marionette	WARN	TLS certificate errors will be ignored for this session
 1585158527794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileyj7SNs"
 1585158528237	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
-1585158528338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1585158528338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1585158528338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1585158528339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585158528338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screensJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ, line 703: Error: Script terminated by timeout at:
+start@https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ:703:314
+c@https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ:704:3804
+c._schedule@https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ:704:3816
+post@https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ:701:6880
+c.post@https://static.xx.fbcdn.net/rsrc.php/v3i1IT4/y9/l/es_LA/S6CWqNUyfJl.js?_nc_x=kHaFpUfr8SJ:704:4325
+logData@https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/jKhikBfWpaS.js?_nc_x=kHaFpUfr8SJ:3:599
+logData@https://stat1585159808772	Marionette	INFO	Stopped listening on port 53877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+85
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:80:632
+t</c.fire@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:290:7545
+s<@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:290:6713
+__wrapEventListenHandler/<@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:265:864
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:80:632
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:310:2735
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/o5BExsLoiBh.js?_nc_x=kHaFpUfr8SJ:277:208
+
+1585159664827	Marionette	INFO	Stopped listening on port 53941
+1585159799127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofilew1pdlM"
+1585159799921	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585159800023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585159800024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585159800024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585159800024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1585158530442	Marionette	INFO	Listening on port 53941
-1585158530939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585159801683	Marionette	INFO	Listening on port 54421
+1585159801773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585159814068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\limc_\\AppData\\Local\\Temp\\rust_mozprofileVEEX6z"
+1585159814534	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585159814653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screens[Child 30004, MediaDecoderStateMachine #1] WARNING: Decoder=28186023c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/task_1579288126/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iuuO4/yl/l/es_LA/oQQf-SqDp4N.js?_nc_x=kHaFpUfr8SJ, line 55: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y2/r/gBLmTAR0OX1.js?_nc_x=kHaFpUfr8SJ, line 155: Error: Destroyed!
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 92: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
