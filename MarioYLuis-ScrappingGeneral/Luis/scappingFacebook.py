@@ -103,7 +103,7 @@ def comentarioPost2(driver, post):
     driver.set_page_load_timeout("60")
     time.sleep(3)
     flag  = 1
-    while flag < 8:
+    while flag < 3:
     #while exit == "Message: Unable to locate element: ._4sxc":
         try:
             #driver.find_element_by_class_name("_4sxc _42ft").click()
