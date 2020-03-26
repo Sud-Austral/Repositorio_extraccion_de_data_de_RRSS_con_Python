@@ -32,7 +32,17 @@ def getPaginaFacebook(lugar,top):
             salida.append(i.replace("https://www.facebook.com/","").replace("/",""))
     return salida[:top]
 
-
+def getPost(pagina, n = 10):
+    salida = []
+    try:
+        for post in get_posts(pagina, pages=n, credentials=("informaticasudaustral@gmail.com","Info.Sud91")):
+            if type(post["post_url"]) == str:
+                post["Nombre"] = pagina
+                salida.append(post)   
+    except:
+        pass
+    return salida[:n]
+"""
 def getPost(pagina, n):
     salida = []
     for post in get_posts(pagina, pages=n, credentials=("informaticasudaustral@gmail.com","Info.Sud91")):
@@ -42,7 +52,7 @@ def getPost(pagina, n):
                 post["Nombre"] = pagina
                 salida.append(post)        
     return salida[:n]
-
+"""
 def cambiarWWW(url):
     return url.replace("m.facebook","www.facebook")
 
@@ -66,10 +76,8 @@ def getDriver():
     driver = webdriver.Firefox()
     driver.set_page_load_timeout("60")
     driver.get("https://www.facebook.com")
-
     driver.find_element_by_name("email").send_keys("informaticasudaustral@gmail.com")
     driver.find_element_by_name("pass").send_keys("Info.Sud91")
-
     driver.find_element_by_id("loginbutton").click()
     #driver.set_page_load_timeout("60")
     return driver

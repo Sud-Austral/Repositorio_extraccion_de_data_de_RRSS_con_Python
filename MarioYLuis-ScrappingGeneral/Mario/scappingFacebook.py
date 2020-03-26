@@ -22,7 +22,7 @@ def comentarioPorLugar(lugar,top,posts):
         datos.append(getComentarios(i,posts, driver))
     data = pd.concat(datos)
     saveCSV(data,lugar)
-    return datos
+    return data
 
 
 def getPaginaFacebook(lugar,top):
@@ -42,7 +42,7 @@ def getPostTopico(lista,text):
     return resultado
 
 
-def getPost(pagina, n):
+def getPost(pagina, n = 10):
     salida = []
     lista = ["covid","pandemia","Coronavirus","COVID"]
     
