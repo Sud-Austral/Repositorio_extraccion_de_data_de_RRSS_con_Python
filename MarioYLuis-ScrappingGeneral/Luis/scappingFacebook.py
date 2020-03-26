@@ -22,7 +22,7 @@ def comentarioPorLugar(lugar,top,posts):
         datos.append(getComentarios(i,posts, driver))
     data = pd.concat(datos)
     saveCSV(data,lugar)
-    return datos
+    return data
 
 
 def getPaginaFacebook(lugar,top):
@@ -84,6 +84,7 @@ def getComentarios(pagina,n, driver):
 def saveCSV(data,lugar):
     now = datetime.now()
     nombreArchivo = lugar + now.strftime("%d-%m-%Y_%H-%M-%S") + ".csv"
+    nombreArchivo = nombreArchivo.replace(" ","_")
     print("Se guardaron los datos en " + nombreArchivo)
     data.to_csv(nombreArchivo, index=False)
 
