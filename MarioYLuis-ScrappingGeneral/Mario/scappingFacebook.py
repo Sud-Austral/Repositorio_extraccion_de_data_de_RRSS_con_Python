@@ -22,7 +22,7 @@ def comentarioPorLugar(lugar,top,posts):
         datos.append(getComentarios(i,posts, driver))
     data = pd.concat(datos)
     saveCSV(data,lugar)
-    return datos
+    return data
 
 
 def getPaginaFacebook(lugar,top):
@@ -42,7 +42,7 @@ def getPostTopico(lista,text):
     return resultado
 
 
-def getPost(pagina, n):
+def getPost(pagina, n = 10):
     salida = []
     lista = ["covid","pandemia","Coronavirus","COVID"]
     
@@ -53,8 +53,11 @@ def getPost(pagina, n):
                 post["Nombre"] = pagina
                 filtro = getPostTopico(lista,str(post["text"]))
                 if  filtro == 1:
-                    salida.append(post)
-                
+                    objeto = {"post_id" : post["post_id"], "text" : post["text"], "post_text" : post["post_text"], "shared_text" : post["shared_text"], "time" : post["time"], "image" : post["image"], "likes" : post["likes"], "comments" : post["comments"], "shares" : post["shares"], "post_url" : post["post_url"], "link" : post["link"], "Nombre" : post["Nombre"]}
+                    salida.append(objeto)
+                    print(objeto)
+                    print("\n")
+                    print("---------------------------------------------------------")
                         
     return salida[:n]
 
@@ -95,8 +98,9 @@ def getDriver():
 def getComentarios(pagina,n, driver):
     datos = []
     #driver = getDriver()
+    post = getPost(pagina,n)
     
-    for i in getPost(pagina,n):
+    for i in post:
         datos.append(comentarioPost2(driver,i))
     return pd.concat(datos)
 
@@ -134,6 +138,9 @@ def comentarioPost2(driver, post):
             #print(i.find_element_by_class_name("livetimestamp").text)
             #print("Comentario:" + maduro.text)
             comentario.append(maduro.text)
+            
+            print(maduro.text)
+            print("\n")
             try:
                 like = i.find_element_by_class_name("_1lld")
                 likes.append(like.text)
@@ -155,6 +162,7 @@ def comentarioPost2(driver, post):
                     maduro = aux.find_element_by_class_name("_72vr")
                     #print("Comentario:" + maduro.text)
                     comentario.append(maduro.text)
+                    print(maduro.text)
                     try:
                         like = aux.find_element_by_class_name("_1lld")
                         likes.append(like.text)
