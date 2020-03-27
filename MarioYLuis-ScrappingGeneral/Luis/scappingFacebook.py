@@ -98,81 +98,86 @@ def saveCSV(data,lugar):
 
 def comentarioPost2(driver, post):
     #driver.get("https://www.facebook.com/story.php?story_fbid=10157425418460895&id=313191260894")
-    url = cambiarWWW(post["post_url"])
-    driver.get(url)
-    driver.set_page_load_timeout("60")
-    time.sleep(3)
-    flag  = 1
-    while flag < 3:
-    #while exit == "Message: Unable to locate element: ._4sxc":
-        try:
-            #driver.find_element_by_class_name("_4sxc _42ft").click()
-            driver.find_element_by_class_name("_4sxc").click()
-            #print("Hola")
-        except Exception as e:
-            #print(e)
-            #print("Oops! ",sys.exc_info()[0]," occured.")
-            flag = flag + 1        
-    hola = "ola"  
-    Xpath = "/html/body/div[1]/div[3]/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div/div/div/div/div[2]/div[2]/form/div/div[3]/ul/li"
-    comentario = []
-    likes = []
-    hora = []
-    for i in driver.find_elements_by_xpath(Xpath):
-        try:
-            maduro = i.find_element_by_class_name("_72vr")
-            #print(i.find_element_by_class_name("livetimestamp").text)
-            #print("Comentario:" + maduro.text)
-            comentario.append(maduro.text)
+    try:
+        url = cambiarWWW(post["post_url"])
+        driver.get(url)
+        driver.set_page_load_timeout("60")
+        time.sleep(3)
+        flag  = 1
+        while flag < 3:
+        #while exit == "Message: Unable to locate element: ._4sxc":
             try:
-                like = i.find_element_by_class_name("_1lld")
-                likes.append(like.text)
-                #print("Likes: " + like.text)
-            except:
-                likes.append("0")
-                #print("Likes: " +"0")
-            #print("Hora: " + i.find_element_by_class_name("livetimestamp").text)
-            hora.append(i.find_element_by_class_name("livetimestamp").text)
-            #print("_________________________________________________________________________________")
-            #parent_ID = numeroId
-            #numeroId = numeroId + 1
+                #driver.find_element_by_class_name("_4sxc _42ft").click()
+                driver.find_element_by_class_name("_4sxc").click()
+                #print("Hola")
+            except Exception as e:
+                #print(e)
+                #print("Oops! ",sys.exc_info()[0]," occured.")
+                flag = flag + 1        
+        hola = "ola"  
+        Xpath = "/html/body/div[1]/div[3]/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div/div/div/div/div[2]/div[2]/form/div/div[3]/ul/li"
+        comentario = []
+        likes = []
+        hora = []
+        for i in driver.find_elements_by_xpath(Xpath):
             try:
-                subcomentarios = i.find_element_by_class_name("_2h2j")
+                maduro = i.find_element_by_class_name("_72vr")
+                #print(i.find_element_by_class_name("livetimestamp").text)
+                #print("Comentario:" + maduro.text)
+                comentario.append(maduro.text)
+                try:
+                    like = i.find_element_by_class_name("_1lld")
+                    likes.append(like.text)
+                    #print("Likes: " + like.text)
+                except:
+                    likes.append("0")
+                    #print("Likes: " +"0")
+                #print("Hora: " + i.find_element_by_class_name("livetimestamp").text)
+                hora.append(i.find_element_by_class_name("livetimestamp").text)
+                #print("_________________________________________________________________________________")
+                #parent_ID = numeroId
+                #numeroId = numeroId + 1
+                try:
+                    subcomentarios = i.find_element_by_class_name("_2h2j")
 
-                for j in range(len(subcomentarios.find_elements_by_class_name("_6c7i"))):
-                    #print(str(j))
-                    aux = subcomentarios.find_elements_by_class_name("_6c7i")[j]
-                    maduro = aux.find_element_by_class_name("_72vr")
-                    #print("Comentario:" + maduro.text)
-                    comentario.append(maduro.text)
-                    try:
-                        like = aux.find_element_by_class_name("_1lld")
-                        likes.append(like.text)
-                        #print("Likes: " + like.text)
-                    except:
-                        likes.append("0")
-                        #print("Likes: " +"0")
-                    
-                    aux = subcomentarios.find_elements_by_class_name("livetimestamp")[j]
-                    #print("Hora: " + aux.text)
-                    hora.append(aux.text)
-                    #print("////////////////////////////////////////////////////////////////////////////////")
-                    #numeroId = numeroId + 1
-                    #numeroId = numeroId + 1
-                        #print("0")
-                    #print("///////////////////////////////////////////////////////////////////////////////////")
-                #print(subcomentarios.text)
+                    for j in range(len(subcomentarios.find_elements_by_class_name("_6c7i"))):
+                        #print(str(j))
+                        aux = subcomentarios.find_elements_by_class_name("_6c7i")[j]
+                        maduro = aux.find_element_by_class_name("_72vr")
+                        #print("Comentario:" + maduro.text)
+                        comentario.append(maduro.text)
+                        try:
+                            like = aux.find_element_by_class_name("_1lld")
+                            likes.append(like.text)
+                            #print("Likes: " + like.text)
+                        except:
+                            likes.append("0")
+                            #print("Likes: " +"0")
+                        
+                        aux = subcomentarios.find_elements_by_class_name("livetimestamp")[j]
+                        #print("Hora: " + aux.text)
+                        hora.append(aux.text)
+                        #print("////////////////////////////////////////////////////////////////////////////////")
+                        #numeroId = numeroId + 1
+                        #numeroId = numeroId + 1
+                            #print("0")
+                        #print("///////////////////////////////////////////////////////////////////////////////////")
+                    #print(subcomentarios.text)
+                except:
+                    print("sin subtextos")
             except:
-                print("sin subtextos")
-        except:
-            print("error")
-            
-    data = pd.DataFrame({
-        "comentario":comentario,
-        "likes":likes,
-        "hora": hora
-    })
-    return agregarPostInfo(data,post)
+                print("error")
+                
+        data = pd.DataFrame({
+            "comentario":comentario,
+            "likes":likes,
+            "hora": hora
+        })
+        return agregarPostInfo(data,post)
+    except:
+        print("Error en la lectura de comentarios")
+        return None
+    
 
 
 
