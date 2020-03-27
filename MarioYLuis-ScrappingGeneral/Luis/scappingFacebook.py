@@ -15,7 +15,7 @@ def Final(pagina,n):
     saveCSV(data,pagina)
     return data
 
-def comentarioPorLugar(lugar,top,posts):
+def comentarioPorLugar(lugar,top = 3,posts = 5):
     datos = []
     driver = getDriver()
     for i in getPaginaFacebook(lugar,top):
