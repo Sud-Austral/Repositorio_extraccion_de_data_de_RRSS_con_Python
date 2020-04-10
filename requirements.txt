@@ -37,7 +37,7 @@ python-dateutil==2.7.3
 python-twitter==3.4.2
 pyzmq==17.0.0
 qtconsole==4.3.1
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
